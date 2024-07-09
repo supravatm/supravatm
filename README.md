@@ -35,6 +35,11 @@
 ![BitBucket](https://img.shields.io/badge/-bitbucket-555?style=flat&logo=bitbucket)&nbsp;
 
 
+
+
+![Snake animation](https://raw.githubusercontent.com/supravatm/supravatm/output/github-contribution-grid-snake-dark.svg
+
+
 ## 📈 GitHub Activity Graph:
 
 <table>
