@@ -4,7 +4,7 @@
     <a href="https://github.com/supravatm/supravatm/graphs/contributors"><img src="https://img.shields.io/github/contributors/supravatm/supravatm?color=blue"></a>
     <a href="https://github.com/supravatm"><img src="https://img.shields.io/github/stars/supravatm"></a>
     <a href="https://github.com/supravatm/supravatm/network/members"><img src="https://img.shields.io/github/forks/supravatm/supravatm.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=supravatm.supravatm" alt="visitors" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=supravatm.supravatm" alt="visitors"/>
 </p>
 
 [![](./src/header_.png)](#)
@@ -48,10 +48,10 @@
             <a href="https://github.com/supravatm#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supravatm&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats" /></a>
         </td>
     </tr>
-    <!--<tr>
+    <tr>
         <td align="center">
             <a href="https://github.com/supravatm#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=supravatm&theme=default" /></a>
-            <a href="https://github.com/supravatm#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=supravatm&theme=tokyonight" /></a>
+            <a href="https://github.com/supravatm#gh-dark-mode-only"></a>
         </td>
-    </tr>-->
+    </tr>
 </table>
