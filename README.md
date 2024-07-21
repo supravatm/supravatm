@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Supravat Mondal</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-<p>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in PHP, ECommerce platform(Magento2) and Backend Technologies including API Intrigration.</p>
+<p align="center"> I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in PHP, ECommerce platform(Magento2) and Backend Technologies including API Intrigration.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 
