@@ -40,7 +40,7 @@
 
 💬 Ask me about **PHP, Magento, LAMP**
 
-📫 How to reach me **supravt.com@gmail.com**
+📫 How to reach me **supravat.com@gmail.com**
 
 📄 Know about my experiences [my experiences](http://supravatm.github.io)
 
